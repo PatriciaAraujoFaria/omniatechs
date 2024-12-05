@@ -84,7 +84,7 @@
 
 @media (max-width: 768px) {
     .carousel-item img {
-        width: 50% !important; /* Usa !important para garantir que este estilo tenha prioridade */
+        width: 80% !important; /* Usa !important para garantir que este estilo tenha prioridade */
     }
 }
 
